@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Juan Diego 👋
 
 <!--
 **JuanMa1903/JuanMa1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
