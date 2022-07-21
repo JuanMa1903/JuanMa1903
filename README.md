@@ -1,5 +1,5 @@
-<h2> Hi, I'm Juan Diego!!<img src= "https://media.giphy.com/media/oApnz85OyAFAItPtSX/giphy.gif" width = "50"></h2>
-<img align= 'right' src="https://media.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif" width="260">
+<h2> Hi, I'm Juan Diego!!<img src= "https://media.giphy.com/media/oApnz85OyAFAItPtSX/giphy.gif" width = "5%"></h2>
+<img align= 'right' src="https://media.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif" width="25%">
 <p><em>System Engeenier at <a href= "http:/https://www.unimagdalena.edu.co/">Universidad del magdalena</a></br>
 </em></p>
 
