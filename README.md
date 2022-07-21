@@ -1,16 +1,19 @@
-### Hi I'm Juan Diego 👋
+<h2> Hi, I'm Juan Diego!!<img src="https://media.giphy.com/media/oApnz85OyAFAItPtSX/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif" width="230">
+<p><em>System Engeenier at <a href="http:/https://www.unimagdalena.edu.co/">Universidad del magdalena</a></br>
+</em></p>
 
-<!--
-**JuanMa1903/JuanMa1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const Juan_Diego = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, C++],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+      },
+      databases: ["PostgreSQL", "SQLServer"],
+   },
+   currentOccupation: ["I'm student, open for job opportunities"],
+};
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
