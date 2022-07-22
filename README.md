@@ -4,7 +4,8 @@
 </em></p>
 
 [![Twitter: HuskyCreek](https://img.shields.io/twitter/follow/HuskyCreek?style=social)](https://twitter.com/HuskyCreek)
-[![GitHub Thaiane](https://img.shields.io/github/followers/JuanMa1903?label=follow&style=social)](https://github.com/JuanMa1903)
+[![GitHub JuanMa1903](https://img.shields.io/github/followers/JuanMa1903?label=follow&style=social)](https://github.com/JuanMa1903)
+[![Linkedin: JuanDiego](https://img.shields.io/badge/-JuanDiego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juandiegomarinsoler/)](https://www.linkedin.com/in/juandiegomarinsoler/)
 
 
 ```js
