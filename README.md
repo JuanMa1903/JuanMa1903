@@ -1,3 +1,8 @@
+<style>
+   #kimetsu{
+   grid-column-gap: 5px;
+   }
+</style>
 <h2> Hi, I'm Juan Diego!!</h2>
 <img align= 'right' src="https://media.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif" width="25%">
 <p><em>System Engeenier at <a href= "http:/https://www.unimagdalena.edu.co/">Universidad del magdalena</a></br>
@@ -21,7 +26,7 @@ const JuanD = {
    currentOccupation: ["I'm student, open for job opportunities"],
 };
 ```
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=JuanMa1903&show_icons=true&hide_border=true" />
+<img id = "kimetsu" width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=JuanMa1903&show_icons=true&hide_border=true" />
 <br/>
 <div align = 'center'>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
