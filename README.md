@@ -1,8 +1,3 @@
-<style>
-   .container{
-   grid-column-gap: 5px;
-   }
-</style>
 <h2> Hi, I'm Juan Diego!!</h2>
 <img align= 'right' src="https://media.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif" width="25%">
 <p><em>System Engeenier at <a href= "http:/https://www.unimagdalena.edu.co/">Universidad del magdalena</a></br>
