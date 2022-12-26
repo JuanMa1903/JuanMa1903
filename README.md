@@ -14,11 +14,11 @@ const JuanD = {
    code: [Javascript, Typescript, HTML5, CSS3, Python, Java, C++],
    technologies: {
       frontEnd: {
-         js: ["React", "Next"],
+         js: ["React", "Next", "Angular"],
       },
       databases: ["PostgreSQL", "SQLServer"],
    },
-   currentOccupation: ["I'm student, open for job opportunities"],
+   currentOccupation: ["I'm working with Ias Software"],
 };
 ```
 <div align = 'center'>
