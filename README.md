@@ -10,7 +10,6 @@
 
 ```js
 const JuanD = {
-   pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML5, CSS3, Python, Java, C++],
    technologies: {
       frontEnd: {
