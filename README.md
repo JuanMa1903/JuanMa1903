@@ -18,7 +18,7 @@ const JuanD = {
       },
       databases: ["PostgreSQL", "SQLServer"],
    },
-   currentOccupation: ["I'm working with Ias Software"],
+   currentOccupation: ["Software Developer"],
 };
 ```
 <div align = 'center'>
